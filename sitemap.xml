@@ -8,13 +8,13 @@
   </url>
   
   <url>
-    <loc>http://example.com/</loc>
+    <loc>http://example.com/post/</loc>
     <lastmod>2019-05-29T21:08:14+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.com/post/</loc>
+    <loc>http://example.com/</loc>
     <lastmod>2019-05-29T21:08:14+01:00</lastmod>
     <priority>0</priority>
   </url>
